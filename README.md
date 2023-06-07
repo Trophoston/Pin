@@ -13,6 +13,10 @@ Web App with Node.js & Express https://school.borntodev.com/course/introduction-
 
 Lite : Fundamental Web Dev with HTML5 & CSS3 https://school.borntodev.com/course/lite-fundamental-web-dev-with-html5-css3
 
+Login system https://youtu.be/YMAsXIY2Vf0 https://www.fugfon.com/regis/
+
+Basic JavaScript https://www.facebook.com/groups/thaidev/permalink/975893753210155/
+
 --Fonts--
 1. Bodoni 72⁣ https://fonts.ninja/fonts/indestructibletype-Bodoni72
 2. Babas Neue ⁣https://fonts.google.com/specimen/Bebas+Neue
@@ -23,10 +27,12 @@ Many type of ai https://www.futurepedia.io/
 
 --Graphics--
 1. Gradient Color Palettes https://www.facebook.com/groups/158013582690926/?multi_permalinks=731581638667448&ref=share
-2. https://lawsofux.com/
-3. https://www.uiguideline.com/components
-4. https://uxtools.co/
-6. https://www.checklist.design/
-5. https://patttterns.net/
+2. Some beautiful gradients https://www.facebook.com/groups/158013582690926/permalink/716821696810109/?paipv=0&eav=AfYXIuY1gFiS-H1BzckF8SHwfYC7x3mudcztggGd5mjaC8dR--4LsyWWEJCj7FHmUKI&_rdr
+3. Ux Law https://lawsofux.com/
+4. Ui Guide https://www.uiguideline.com/components
+5. Ux tools https://uxtools.co/
+6. Ux/Ui Helper https://www.checklist.design/
+7. Ux/Ui Idea https://patttterns.net/
+8. Ux/Ui Idea https://ui8.net/categories/freebies?fbclid=IwAR3EBB5WvXLSyvRlbV3_LF34Vemkfoeh9JY-YoDmByHdnF1tdPI41GsabLc
 
 --etc---
