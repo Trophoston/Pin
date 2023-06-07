@@ -22,11 +22,11 @@ Lite : Fundamental Web Dev with HTML5 & CSS3 https://school.borntodev.com/course
 Many type of ai https://www.futurepedia.io/
 
 --Graphics--
-1.Gradient Color Palettes https://www.facebook.com/groups/158013582690926/?multi_permalinks=731581638667448&ref=share
-2.https://lawsofux.com/
-3.https://www.uiguideline.com/components
-4.https://uxtools.co/
-6.https://www.checklist.design/
-5.https://patttterns.net/
+1. Gradient Color Palettes https://www.facebook.com/groups/158013582690926/?multi_permalinks=731581638667448&ref=share
+2. https://lawsofux.com/
+3. https://www.uiguideline.com/components
+4. https://uxtools.co/
+6. https://www.checklist.design/
+5. https://patttterns.net/
 
 --etc---
