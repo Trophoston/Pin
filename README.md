@@ -18,14 +18,17 @@ Login system https://youtu.be/YMAsXIY2Vf0 https://www.fugfon.com/regis/
 Basic JavaScript https://www.facebook.com/groups/thaidev/permalink/975893753210155/
 
 --Fonts--
+
 1. Bodoni 72⁣ https://fonts.ninja/fonts/indestructibletype-Bodoni72
 2. Babas Neue ⁣https://fonts.google.com/specimen/Bebas+Neue
 4. Soap⁣ https://fontsgeek.com/fonts/Soap-Regular
 
 --Ai--
+
 Many type of ai https://www.futurepedia.io/
 
 --Graphics--
+
 1. Gradient Color Palettes https://www.facebook.com/groups/158013582690926/?multi_permalinks=731581638667448&ref=share
 2. Some beautiful gradients https://www.facebook.com/groups/158013582690926/permalink/716821696810109/?paipv=0&eav=AfYXIuY1gFiS-H1BzckF8SHwfYC7x3mudcztggGd5mjaC8dR--4LsyWWEJCj7FHmUKI&_rdr
 3. Ux Law https://lawsofux.com/
@@ -35,4 +38,4 @@ Many type of ai https://www.futurepedia.io/
 7. Ux/Ui Idea https://patttterns.net/
 8. Ux/Ui Idea https://ui8.net/categories/freebies?fbclid=IwAR3EBB5WvXLSyvRlbV3_LF34Vemkfoeh9JY-YoDmByHdnF1tdPI41GsabLc
 
---etc---
+--Etc---
