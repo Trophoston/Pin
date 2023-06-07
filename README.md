@@ -39,3 +39,6 @@ Many type of ai https://www.futurepedia.io/
 8. Ux/Ui Idea https://ui8.net/categories/freebies?fbclid=IwAR3EBB5WvXLSyvRlbV3_LF34Vemkfoeh9JY-YoDmByHdnF1tdPI41GsabLc
 
 --Etc---
+My Devloping website1 https://teachin-site.netlify.app/?fbclid=IwAR2_aKQm3E-4KjWljfwMRtHpUNqBIWu_EgHsfWCWpG8vHVfXHyrYINYGMEw
+
+My Devloping website2 https://photostongalse.netlify.app/
