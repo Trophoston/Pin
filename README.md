@@ -1,2 +1,2 @@
 # Pin
-https://school.borntodev.com/course/github-for-developer
+Github learning https://school.borntodev.com/course/github-for-developer
