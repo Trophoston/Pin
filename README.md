@@ -17,6 +17,8 @@ Login system https://youtu.be/YMAsXIY2Vf0 https://www.fugfon.com/regis/
 
 Basic JavaScript https://www.facebook.com/groups/thaidev/permalink/975893753210155/
 
+JS Barcode https://lindell.me/JsBarcode/
+
 --Fonts--
 
 1. Bodoni 72⁣ https://fonts.ninja/fonts/indestructibletype-Bodoni72
